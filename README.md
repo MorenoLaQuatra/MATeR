@@ -20,7 +20,8 @@ Audio samples for cases where MATeR generated summaries obtain significant **low
 
 ## Example 1 (7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh)
 
-VISUAL CARD
+![7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh](https://user-images.githubusercontent.com/10062811/138470882-ecbfc106-8a5f-4e27-aea5-abb2c585c48d.png)
+
 
 ### Audio Samples (Example 1)
 
@@ -42,6 +43,9 @@ VISUAL CARD
 
 ### Audio Samples (Example 2)
 
+![550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D](https://user-images.githubusercontent.com/10062811/138470926-26fba60e-8b96-4b98-8793-4bda46bbd859.png)
+
+
 **MATeR**
 
 https://user-images.githubusercontent.com/10062811/138457006-cf647412-7bac-4f8e-b34e-90e975db93d1.mov
@@ -58,7 +62,8 @@ https://user-images.githubusercontent.com/10062811/138459046-09dc3e50-5b89-4cd5-
 
 ## Example 3 (0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe)
 
-VISUAL CARD
+![0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe](https://user-images.githubusercontent.com/10062811/138470970-cc38e1e4-715c-4b01-8d3b-26aa5bf81796.png)
+
 
 ### Audio Samples (Example 3)
 
