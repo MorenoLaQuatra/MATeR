@@ -76,11 +76,35 @@ https://user-images.githubusercontent.com/XXX
 Audio samples for cases where MATeR generated summaries obtain significant **lower** ROUGE-2 F1 score if compared with the best competitor. 
 
 
-## Example 1
+## Example 1 (7lODos6uX9G0hRGtaBFgr6_5OmsBCCphxwDEpGudThv6s)
+
+VISUAL CARD
+
+### Audio Samples (Example 1)
 
 **MATeR**
 
-https://user-images.githubusercontent.com/10062811/137589635-464bb146-b407-4374-82f9-34e5eea1992c.mov
+https://user-images.githubusercontent.com/10062811/138457583-7819b3b1-86d6-4e0d-8006-225caafa0bfd.mov
+
+**HiBERT**
+
+https://user-images.githubusercontent.com/XXX
+
+
+**BERT**
+
+https://user-images.githubusercontent.com/XXX
+
+## Example 2 (2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs)
+
+VISUAL CARD
+
+### Audio Samples (Example 2)
+
+**MATeR**
+
+https://user-images.githubusercontent.com/10062811/138457673-7585875d-c642-4963-a404-abe1787a8caa.mov
+
 
 **HiBERT**
 
@@ -92,4 +116,22 @@ https://user-images.githubusercontent.com/XXX
 https://user-images.githubusercontent.com/XXX
 
 
+## Example 3 (51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy)
+
+VISUAL CARD
+
+### Audio Samples (Example 3)
+
+**MATeR**
+
+https://user-images.githubusercontent.com/10062811/138457733-aae22364-8247-4c10-9b12-2b814dad940a.mov
+
+**HiBERT**
+
+https://user-images.githubusercontent.com/XXX
+
+
+**BERT**
+
+https://user-images.githubusercontent.com/XXX
 
