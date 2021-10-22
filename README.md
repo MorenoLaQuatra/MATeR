@@ -39,12 +39,9 @@ https://user-images.githubusercontent.com/10062811/138459025-947da371-8e68-4cb4-
 
 ## Example 2 (550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D)
 
-VISUAL CARD
-
-### Audio Samples (Example 2)
-
 ![550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D](https://user-images.githubusercontent.com/10062811/138470926-26fba60e-8b96-4b98-8793-4bda46bbd859.png)
 
+### Audio Samples (Example 2)
 
 **MATeR**
 
