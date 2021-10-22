@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/10062811/138458086-1462223c-2a9f-456a-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138459025-947da371-8e68-4cb4-b894-156a6c77e4d2.mov
 
 ## Example 2 (550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D)
 
@@ -54,8 +54,7 @@ https://user-images.githubusercontent.com/10062811/138458119-ffab8c4e-1351-4a70-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
-
+https://user-images.githubusercontent.com/10062811/138459046-09dc3e50-5b89-4cd5-b3d6-cac2b98e076f.mov
 
 ## Example 3 (0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe)
 
@@ -74,7 +73,10 @@ https://user-images.githubusercontent.com/10062811/138458153-3242e556-d5f7-4463-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138459072-564a874c-c203-42a4-b27f-e51b69d0ee08.mov
+
+
+
 
 
 # Low score examples
@@ -99,7 +101,8 @@ https://user-images.githubusercontent.com/10062811/138458244-50b78271-71e9-4012-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138459122-98500051-6964-4368-98f2-71c4ac81f096.mov
+
 
 ## Example 2 (2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs)
 
@@ -119,7 +122,7 @@ https://user-images.githubusercontent.com/10062811/138458324-388197bf-7705-4dc4-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138459164-77b23b79-0b8e-4bef-b6d2-cd0e812c54c7.mov
 
 
 ## Example 3 (51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy)
@@ -139,5 +142,6 @@ https://user-images.githubusercontent.com/10062811/138458392-90460a9d-de9f-41e6-
 
 **BERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138459202-21d6e3f1-f40f-44f7-93db-aa6564603723.mov
+
 
