@@ -1,8 +1,8 @@
 # MATeR_demo
 Demo for the paper
 
-- [High score examples](#high-score-example)
-- [Low score examples](#low-score-example)
+- [High score examples](#high-score-examples)
+- [Low score examples](#low-score-examples)
 
 
 
