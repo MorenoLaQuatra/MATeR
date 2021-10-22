@@ -20,7 +20,7 @@ Audio samples for cases where MATeR generated summaries obtain significant **low
 
 ## Example 1 (7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh)
 
-![7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh](https://user-images.githubusercontent.com/10062811/138470882-ecbfc106-8a5f-4e27-aea5-abb2c585c48d.png)
+![7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh](images/7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh.jpg)
 
 
 ### Audio Samples (Example 1)
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/10062811/138459025-947da371-8e68-4cb4-
 
 ## Example 2 (550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D)
 
-![550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D](https://user-images.githubusercontent.com/10062811/138470926-26fba60e-8b96-4b98-8793-4bda46bbd859.png)
+![550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D](images/550ZI1sg75lbNv7TXoQbec_6VAekMPV1MjUP5k465g52D.jpg)
 
 ### Audio Samples (Example 2)
 
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/10062811/138459046-09dc3e50-5b89-4cd5-
 
 ## Example 3 (0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe)
 
-![0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe](https://user-images.githubusercontent.com/10062811/138470970-cc38e1e4-715c-4b01-8d3b-26aa5bf81796.png)
+![0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe](images/0L0j6X6cf3DO1Bs0D0K4Ch_0HfelmyAjA2a6Z6r7UQ6pe.jpg)
 
 
 ### Audio Samples (Example 3)
@@ -88,7 +88,7 @@ Audio samples for cases where MATeR generated summaries obtain significant **low
 
 ## Example 1 (7lODos6uX9G0hRGtaBFgr6_5OmsBCCphxwDEpGudThv6s)
 
-VISUAL CARD
+![7lODos6uX9G0hRGtaBFgr6_5OmsBCCphxwDEpGudThv6s](images/7lODos6uX9G0hRGtaBFgr6_5OmsBCCphxwDEpGudThv6s.jpg)
 
 ### Audio Samples (Example 1)
 
@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/10062811/138459122-98500051-6964-4368-
 
 ## Example 2 (2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs)
 
-VISUAL CARD
+![2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs](images/2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs.jpg)
 
 ### Audio Samples (Example 2)
 
@@ -129,7 +129,7 @@ https://user-images.githubusercontent.com/10062811/138459164-77b23b79-0b8e-4bef-
 
 ## Example 3 (51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy)
 
-VISUAL CARD
+![51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy](images/51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy.jpg)
 
 ### Audio Samples (Example 3)
 
