@@ -30,8 +30,7 @@ https://user-images.githubusercontent.com/10062811/138456857-d3c46950-7a75-4ae5-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
-
+https://user-images.githubusercontent.com/10062811/138458086-1462223c-2a9f-456a-910d-7697271c1042.mov
 
 **BERT**
 
@@ -50,7 +49,7 @@ https://user-images.githubusercontent.com/10062811/138457006-cf647412-7bac-4f8e-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138458119-ffab8c4e-1351-4a70-9b74-0d84e2646aca.mov
 
 
 **BERT**
@@ -70,7 +69,7 @@ https://user-images.githubusercontent.com/10062811/138457178-f5707111-36ac-43ef-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138458153-3242e556-d5f7-4463-8d61-4ce3c705c410.mov
 
 
 **BERT**
@@ -95,7 +94,7 @@ https://user-images.githubusercontent.com/10062811/138457583-7819b3b1-86d6-4e0d-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138458244-50b78271-71e9-4012-9ef6-eb160eeebc2e.mov
 
 
 **BERT**
@@ -115,7 +114,7 @@ https://user-images.githubusercontent.com/10062811/138457673-7585875d-c642-4963-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138458324-388197bf-7705-4dc4-b818-9dd4fbbdd7ef.mov
 
 
 **BERT**
@@ -135,7 +134,7 @@ https://user-images.githubusercontent.com/10062811/138457733-aae22364-8247-4c10-
 
 **HiBERT**
 
-https://user-images.githubusercontent.com/XXX
+https://user-images.githubusercontent.com/10062811/138458392-90460a9d-de9f-41e6-8e2e-5c1da81c1746.mov
 
 
 **BERT**
