@@ -15,7 +15,7 @@ Demo for the paper
 
 # High score examples
 
-Audio samples for cases where MATeR generated summaries obtain significant **lower** ROUGE-2 F1 score if compared with the best competitor. 
+Audio samples for cases where MATeR generated summaries obtain significant **higher** ROUGE-2 F1 score if compared with the best competitor. 
 
 
 ## Example 1 (7vXiAjVFnhNI3T9Gkw636a_3N0I2LsRLmalC25phOYJmh)
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/10062811/138456857-d3c46950-7a75-4ae5-
 
 https://user-images.githubusercontent.com/10062811/138458086-1462223c-2a9f-456a-910d-7697271c1042.mov
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459025-947da371-8e68-4cb4-b894-156a6c77e4d2.mov
 
@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/10062811/138457006-cf647412-7bac-4f8e-
 https://user-images.githubusercontent.com/10062811/138458119-ffab8c4e-1351-4a70-9b74-0d84e2646aca.mov
 
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459046-09dc3e50-5b89-4cd5-b3d6-cac2b98e076f.mov
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/10062811/138457178-f5707111-36ac-43ef-
 https://user-images.githubusercontent.com/10062811/138458153-3242e556-d5f7-4463-8d61-4ce3c705c410.mov
 
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459072-564a874c-c203-42a4-b27f-e51b69d0ee08.mov
 
@@ -101,7 +101,7 @@ https://user-images.githubusercontent.com/10062811/138457583-7819b3b1-86d6-4e0d-
 https://user-images.githubusercontent.com/10062811/138458244-50b78271-71e9-4012-9ef6-eb160eeebc2e.mov
 
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459122-98500051-6964-4368-98f2-71c4ac81f096.mov
 
@@ -122,7 +122,7 @@ https://user-images.githubusercontent.com/10062811/138457673-7585875d-c642-4963-
 https://user-images.githubusercontent.com/10062811/138458324-388197bf-7705-4dc4-b818-9dd4fbbdd7ef.mov
 
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459164-77b23b79-0b8e-4bef-b6d2-cd0e812c54c7.mov
 
@@ -142,7 +142,7 @@ https://user-images.githubusercontent.com/10062811/138457733-aae22364-8247-4c10-
 https://user-images.githubusercontent.com/10062811/138458392-90460a9d-de9f-41e6-8e2e-5c1da81c1746.mov
 
 
-**BERT**
+**MATeR-textonly**
 
 https://user-images.githubusercontent.com/10062811/138459202-21d6e3f1-f40f-44f7-93db-aa6564603723.mov
 
