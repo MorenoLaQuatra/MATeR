@@ -1,5 +1,7 @@
-# MATeR_demo
-Demo for the paper
+# MATeR model demo
+Demo for the paper "_Leveraging multimodal content for podcast summarization_" by Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza - published in ACM SAC 2022, 2022
+
+`Citation coming soon!`
 
 - [High score examples](#high-score-examples)
   - [Example 1](#example-1-7vxiajvfnhni3t9gkw636a_3n0i2lsrlmalc25phoyjmh)
@@ -9,9 +11,6 @@ Demo for the paper
   - [Example 1](#example-1-7lODos6uX9G0hRGtaBFgr6_5OmsBCCphxwDEpGudThv6s)
   - [Example 2](#example-2-2KBfl8eidzorW02RzQf9K8_51nmU0wf4wR6wVHACEagPs)
   - [Example 3](#example-3-51Bg4WCSE54ldyM7K4Nzff_3GSeNWxX70abttVM99zWsy)
-
-
-
 
 # High score examples
 
