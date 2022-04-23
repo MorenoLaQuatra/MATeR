@@ -1,6 +1,6 @@
 # Leveraging multimodal content for podcast summarization
 
-The classification model for advertising classification is available on [🤗 Hub](https://huggingface.co/morenolq/spotify-podcast-advertising-classification)
+The model fine-tuned to classify a given sentence as containing advertising content or not is available on [🤗 Hub](https://huggingface.co/morenolq/spotify-podcast-advertising-classification)
 
 # Qualitative examples
 Demo for the paper "_Leveraging multimodal content for podcast summarization_" by Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza - published in ACM SAC 2022, 2022
