@@ -1,5 +1,9 @@
-# Leveraging multimodal content for podcast summarization
+# MATeR: Multimodal Audio Text Regressor
 
+This repository contains qualitative examples and specific details for our paper _Leveraging multimodal content for podcast summarization_ presented at ACM SAC 2022.
+
+
+# Advertisement classii
 The model fine-tuned to classify a given sentence as containing advertising content or not is available on [🤗 Hub](https://huggingface.co/morenolq/spotify-podcast-advertising-classification)
 
 # Qualitative examples
