@@ -6,7 +6,7 @@ This repository contains qualitative examples and specific details for our paper
 # Filtering advertising content from human descriptions
 
 The model fine-tuned to classify a given sentence as containing advertising content or not is available on [🤗 Hub](https://huggingface.co/morenolq/spotify-podcast-advertising-classification). It is used as a pre-processing step to remove advertising content from text descriptions.
-The data used to train the model can be found [here](./description_sentences_classification.tsv)
+The model is trained on a set of ~2200 manually annotated examples. The data used to train the model can be found [here](./description_sentences_classification.tsv)
 
 # Qualitative examples
 Demo for the paper "_Leveraging multimodal content for podcast summarization_" by Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza - published in ACM SAC 2022, 2022
