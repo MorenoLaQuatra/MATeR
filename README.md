@@ -8,10 +8,20 @@ This repository contains qualitative examples and specific details for our paper
 The model fine-tuned to classify a given sentence as containing advertising content or not is available on [🤗 Hub](https://huggingface.co/morenolq/spotify-podcast-advertising-classification). It is used as a pre-processing step to remove advertising content from text descriptions.
 The model is trained on a set of ~2200 manually annotated examples. The data used to train the model can be found [here](./description_sentences_classification.tsv)
 
+If you find the resources in this repository useful for your research please cite the following paper:
+
+```
+@inproceedings{vaiani2022leveraging,
+  title={Leveraging multimodal content for podcast summarization},
+  author={Vaiani, Lorenzo and La Quatra, Moreno and Cagliero, Luca and Garza, Paolo},
+  booktitle={Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
+  pages={863--870},
+  year={2022}
+}
+```
+
 # Qualitative examples
 Demo for the paper "_Leveraging multimodal content for podcast summarization_" by Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza - published in ACM SAC 2022, 2022
-
-`Citation coming soon!`
 
 - [High score examples](#high-score-examples)
   - [Example 1](#example-1-7vxiajvfnhni3t9gkw636a_3n0i2lsrlmalc25phoyjmh)
